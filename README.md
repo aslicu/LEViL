@@ -10,7 +10,7 @@ LEViL: Label-Efficient Video Learning via Zero-Shot Distillation over VLM-Genera
 <h2>Model Checkpoints</h2>
 
 Pretrained model checkpoints are available on
-<a href="YOUR_GOOGLE_DRIVE_LINK">Google Drive</a>.
+<a href="https://drive.google.com/drive/folders/189dlP8CfVvDEN1LvPZ5cUrwAUBwPW4j7?usp=drive_link">Google Drive</a>.
 
 <h2>Citation</h2>
 
