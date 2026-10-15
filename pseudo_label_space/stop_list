@@ -1,0 +1,39 @@
+# =========================
+# Generic terimleri eleme
+# =========================
+bad_terms = {
+    # Çok genel caption fiilleri
+    "show", "see", "look", "appear", "include", "capture", "observe",
+    "display", "indicate", "demonstrate", "showcase", "present",
+    "focus", "provide", "suggest", "involve", "relate",
+
+    # Çok genel insan/özne kelimeleri
+    "person", "people",
+
+    # Çok genel video/sahne kelimeleri
+    "scene", "video", "clip", "frame", "image", "picture",
+    "object", "thing", "activity", "action", "movement", "motion",
+    "event", "moment", "performance", "routine", "process",
+
+    # Ortam ama çok genel olanlar
+    "area", "setting", "background", "foreground", "environment",
+    "place", "site", "space",
+}
+
+
+bad_phrase_starts = {
+    "show", "see", "look", "appear", "include", "capture", "observe",
+    "display", "indicate", "demonstrate", "showcase", "present",
+    "focus", "provide", "suggest", "involve", "relate",
+}
+
+
+lemma_fixes = {
+    "rid": "ride",
+    "ches": "chess",
+    "instal": "install",
+    "outstretche": "outstretch",
+    "wakeboarde": "wakeboard",
+    "kiteboarde": "kiteboard",
+    "parasaile": "parasail",
+}
